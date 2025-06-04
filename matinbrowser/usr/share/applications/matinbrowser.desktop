@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Matin Browser
+Exec=python3 /usr/local/bin/matinbrowser/main.py
+Icon=/usr/share/icons/matinbrowser.png
+Type=Application
+Categories=Network;WebBrowser;
