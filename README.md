@@ -18,3 +18,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python main.py
+for v.2 : python3 mainv2.py 
+https://github.com/MmatinMonajemi/matinbrowser/blob/main/readmev2.md
+for deb v 1.0 use the matinbrowser.deb
+https://github.com/MmatinMonajemi/matinbrowser/blob/main/readmefordebv1.md
