@@ -1,8 +1,8 @@
-# Matin Browser
+# Matin Browser (TEST)
 
 Matin Browser is a lightweight, secure, and modern web browser featuring a sleek black and yellow theme. This browser uses DuckDuckGo as the default search engine to ensure an anonymous experience by not storing any browsing data. Additionally, the browser can be launched via the **Distro** section provided below, making it compatible with various Linux distributions.
 
-## Built by
+## Built by MMatin 
 
 Matin Browser is an open-source and free project developed by **Mohammad Matin Monajemi (M.Matin Monajemi)**. Created primarily for entertainment purposes, the goal has always been to offer a browser that is lightweight, secure, and anonymous. For this reason, DuckDuckGo was selected as the default search engine, and the application is designed not to store any personal data or browsing history.
 
